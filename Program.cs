@@ -22,6 +22,7 @@ namespace HW_04_04_task3
             }
         }
         public int salary = 0;
+        public int tax;
         public string position;
 
         public Employee(string name,string lastName,int experience){
@@ -29,6 +30,7 @@ namespace HW_04_04_task3
             this.lastName = lastName;
             this.experience = experience;
             checkTheExpersiens(experience);
+            inputInfo();
         }
 
         public void checkTheExpersiens(int i){
@@ -48,6 +50,7 @@ namespace HW_04_04_task3
                 position = "Project Manager";
                 salary = 6000;
             }
+            tax = ((salary*13)/100)+((salary*1)/100);
 
         }
 
@@ -56,9 +59,9 @@ namespace HW_04_04_task3
             System.Console.WriteLine("Имя: "+name);
             System.Console.WriteLine("Фамилия: "+lastName);
             System.Console.WriteLine("Должность: "+position);
-            System.Console.WriteLine("Зарплата: "+salary);
-            
-            
+            System.Console.WriteLine("Полная Зарплата: "+salary);
+            System.Console.WriteLine("Налог 13% и +1% пенсионный фонд: "+ tax);
+            System.Console.WriteLine("Зарплата к выплате: "+(salary-tax));
         }
 
 
