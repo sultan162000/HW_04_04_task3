@@ -1,0 +1,13 @@
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.csprojAssemblyReference.cache
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.csproj.CoreCompileInputs.cache
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.AssemblyInfoInputs.cache
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.AssemblyInfo.cs
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.exe
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.deps.json
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.runtimeconfig.json
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.runtimeconfig.dev.json
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.dll
+C:\project\HW_04_04_task3\bin\Debug\netcoreapp3.1\HW_04_04_task3.pdb
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.dll
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.pdb
+C:\project\HW_04_04_task3\obj\Debug\netcoreapp3.1\HW_04_04_task3.genruntimeconfig.cache
